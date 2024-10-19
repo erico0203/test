@@ -1,0 +1,1 @@
+{"animations":[{"loop":true,"offsets":[-5,-1],"anim":"idle","fps":8,"name":"rerun intro","indices":[]}],"no_antialiasing":false,"image":"characters/rerunBFintro","position":[-270,520],"healthicon":"bfrerun","flip_x":false,"healthbar_colors":[255,41,54],"camera_position":[85,-110],"sing_duration":4,"scale":1.60000000000002}

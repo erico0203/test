@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF Cheer"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nogf",
+	"position": [
+		120,
+		-10
+	],
+	"healthicon": "diablo",
+	"flip_x": true,
+	"healthbar_colors": [
+		23,
+		15,
+		120
+	],
+	"camera_position": [
+		310,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
