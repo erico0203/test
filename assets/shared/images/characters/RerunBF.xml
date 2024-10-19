@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RerunBF.png">
+<SubTexture name="coniazo0000" x="0" y="0" width="303" height="299" frameX="-455" frameY="-136" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0001" x="303" y="0" width="296" height="301" frameX="-454" frameY="-134" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0002" x="599" y="0" width="767" height="359" frameX="0" frameY="-75" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0003" x="1366" y="0" width="731" height="359" frameX="-36" frameY="-75" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0004" x="2097" y="0" width="692" height="395" frameX="-78" frameY="-39" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0005" x="0" y="395" width="644" height="434" frameX="-126" frameY="0" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0006" x="644" y="395" width="559" height="367" frameX="-208" frameY="-67" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0007" x="0" y="0" width="303" height="299" frameX="-455" frameY="-136" frameWidth="768" frameHeight="433" />
+<SubTexture name="coniazo0008" x="303" y="0" width="296" height="301" frameX="-454" frameY="-134" frameWidth="768" frameHeight="433" />
+<SubTexture name="mierda0000" x="1203" y="395" width="278" height="365" frameX="0" frameY="0" frameWidth="278" frameHeight="363" />
+<SubTexture name="mierda0001" x="1481" y="395" width="278" height="365" frameX="0" frameY="0" frameWidth="278" frameHeight="363" />
+<SubTexture name="mierda0002" x="1759" y="395" width="279" height="364" frameX="-1" frameY="-1" frameWidth="278" frameHeight="363" />
+<SubTexture name="mierda0003" x="0" y="829" width="279" height="364" frameX="-1" frameY="-1" frameWidth="278" frameHeight="363" />
+<SubTexture name="mierda0004" x="1759" y="395" width="279" height="364" frameX="-1" frameY="-1" frameWidth="278" frameHeight="363" />
+<SubTexture name="mierda0005" x="0" y="829" width="279" height="364" frameX="-1" frameY="-1" frameWidth="278" frameHeight="363" />
+<SubTexture name="mierda0006" x="1759" y="395" width="279" height="364" frameX="-1" frameY="-1" frameWidth="278" frameHeight="363" />
+<SubTexture name="mierda0007" x="0" y="829" width="279" height="364" frameX="-1" frameY="-1" frameWidth="278" frameHeight="363" />
+<SubTexture name="down0000" x="279" y="829" width="358" height="302" frameX="0" frameY="-5" frameWidth="356" frameHeight="305" />
+<SubTexture name="down0001" x="637" y="829" width="355" height="307" frameX="-2" frameY="0" frameWidth="356" frameHeight="305" />
+<SubTexture name="joder tio0000" x="992" y="829" width="290" height="381" frameX="-60" frameY="0" frameWidth="348" frameHeight="379" />
+<SubTexture name="joder tio0001" x="1282" y="829" width="289" height="381" frameX="-60" frameY="0" frameWidth="348" frameHeight="379" />
+<SubTexture name="joder tio0002" x="0" y="1210" width="325" height="375" frameX="-25" frameY="-6" frameWidth="348" frameHeight="379" />
+<SubTexture name="joder tio0003" x="325" y="1210" width="350" height="375" frameX="0" frameY="-6" frameWidth="348" frameHeight="379" />
+<SubTexture name="joder tio0004" x="675" y="1210" width="286" height="375" frameX="-64" frameY="-6" frameWidth="348" frameHeight="379" />
+<SubTexture name="idle0000" x="961" y="1210" width="283" height="359" frameX="0" frameY="-12" frameWidth="289" frameHeight="369" />
+<SubTexture name="idle0001" x="1244" y="1210" width="285" height="356" frameX="-2" frameY="-15" frameWidth="289" frameHeight="369" />
+<SubTexture name="idle0002" x="0" y="1585" width="288" height="363" frameX="-3" frameY="-8" frameWidth="289" frameHeight="369" />
+<SubTexture name="idle0003" x="288" y="1585" width="287" height="368" frameX="-4" frameY="-3" frameWidth="289" frameHeight="369" />
+<SubTexture name="idle0004" x="575" y="1585" width="287" height="371" frameX="-3" frameY="0" frameWidth="289" frameHeight="369" />
+<SubTexture name="idle0005" x="862" y="1585" width="287" height="371" frameX="-3" frameY="0" frameWidth="289" frameHeight="369" />
+<SubTexture name="left0000" x="1149" y="1585" width="263" height="364" frameX="0" frameY="-2" frameWidth="262" frameHeight="364" />
+<SubTexture name="left0001" x="0" y="1956" width="263" height="366" frameX="-1" frameY="0" frameWidth="262" frameHeight="364" />
+<SubTexture name="right0000" x="263" y="1956" width="330" height="353" frameX="-9" frameY="-3" frameWidth="337" frameHeight="354" />
+<SubTexture name="right0001" x="593" y="1956" width="330" height="356" frameX="0" frameY="0" frameWidth="337" frameHeight="354" />
+<SubTexture name="up0000" x="923" y="1956" width="280" height="398" frameX="-3" frameY="0" frameWidth="285" frameHeight="396" />
+<SubTexture name="up0001" x="1203" y="1956" width="287" height="394" frameX="0" frameY="-4" frameWidth="285" frameHeight="396" />
+</TextureAtlas>

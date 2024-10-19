@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RerunBFHurt.png">
+<SubTexture name="rerunhurt down0000" x="0" y="0" width="338" height="379" frameX="0" frameY="-7" frameWidth="336" frameHeight="384" />
+<SubTexture name="rerunhurt down0001" x="338" y="0" width="329" height="386" frameX="-4" frameY="0" frameWidth="336" frameHeight="384" />
+<SubTexture name="rerunhurt idle0000" x="667" y="0" width="324" height="407" frameX="0" frameY="0" frameWidth="323" frameHeight="406" />
+<SubTexture name="rerunhurt idle0001" x="0" y="407" width="325" height="408" frameX="0" frameY="0" frameWidth="323" frameHeight="406" />
+<SubTexture name="rerunhurt left0000" x="325" y="407" width="333" height="405" frameX="0" frameY="-3" frameWidth="332" frameHeight="407" />
+<SubTexture name="rerunhurt left0001" x="658" y="407" width="323" height="409" frameX="-11" frameY="0" frameWidth="332" frameHeight="407" />
+<SubTexture name="rerunhurt right0000" x="0" y="816" width="352" height="405" frameX="-1" frameY="-1" frameWidth="351" frameHeight="405" />
+<SubTexture name="rerunhurt right0001" x="352" y="816" width="339" height="406" frameX="0" frameY="0" frameWidth="351" frameHeight="405" />
+<SubTexture name="rerunhurt up0000" x="691" y="816" width="322" height="440" frameX="-4" frameY="0" frameWidth="324" frameHeight="439" />
+<SubTexture name="rerunhurt up0001" x="0" y="1256" width="324" height="430" frameX="0" frameY="-10" frameWidth="324" frameHeight="439" />
+</TextureAtlas>
