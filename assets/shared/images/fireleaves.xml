@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireleaves.png">
+	<SubTexture name="leaves0000" x="0" y="0" width="1141" height="643" frameX="0" frameY="0" frameWidth="1143" frameHeight="644"/>
+	<SubTexture name="leaves0001" x="1141" y="0" width="1141" height="643" frameX="0" frameY="0" frameWidth="1143" frameHeight="644"/>
+	<SubTexture name="leaves0002" x="0" y="643" width="1141" height="643" frameX="0" frameY="0" frameWidth="1143" frameHeight="644"/>
+</TextureAtlas>

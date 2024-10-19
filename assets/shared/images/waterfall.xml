@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waterfall.png">
+	<SubTexture name="waterfall0000" x="0" y="754" width="508" height="463" frameX="1" frameY="1" frameWidth="506" frameHeight="465"/>
+	<SubTexture name="waterfall0001" x="1651" y="0" width="477" height="467" frameX="-21" frameY="1" frameWidth="506" frameHeight="465"/>
+	<SubTexture name="waterfall0002" x="508" y="754" width="490" height="463" frameX="-11" frameY="1" frameWidth="506" frameHeight="465"/>
+	<SubTexture name="sea0000" x="0" y="376" width="827" height="378" frameX="-3" frameY="1" frameWidth="833" frameHeight="376"/>
+	<SubTexture name="sea0001" x="0" y="0" width="835" height="376" frameX="1" frameY="1" frameWidth="833" frameHeight="376"/>
+	<SubTexture name="sea0002" x="835" y="0" width="816" height="378" frameX="-7" frameY="1" frameWidth="833" frameHeight="376"/>
+	<SubTexture name="phase0000" x="0" y="1358" width="1031" height="136" frameX="1" frameY="0" frameWidth="1029" frameHeight="139"/>
+	<SubTexture name="phase0001" x="1025" y="1217" width="1018" height="141" frameX="-7" frameY="1" frameWidth="1029" frameHeight="139"/>
+	<SubTexture name="phase0002" x="0" y="1217" width="1025" height="141" frameX="-4" frameY="1" frameWidth="1029" frameHeight="139"/>
+</TextureAtlas>
